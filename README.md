@@ -10,11 +10,17 @@ En la Etapa 1, proporcionarás una descripción general de los datos y anotarás
 **Descripción de las columnas**
 
 'userID' — identifica de forma exclusiva a cada usuario o usuaria;
+
 'Track' — título de la canción;
+
 'artist' — nombre del artista;
+
 'genre' — género musical;
+
 'City' — ciudad del usuario o la usuaria;
+
 'time' — hora del día en la que se reprodujo la pista (HH:MM:SS);
+
 'Day' — día de la semana.
 
 *Aquí están nuestras hipótesis para aceptar o rechazar*
